@@ -1,8 +1,8 @@
 # 书生·浦语大语言模型学习：
-第一节：
+# 第一节：
 
 ![书生·浦语大模型全链路开源开放体系](https://github.com/user-attachments/assets/d5999d3a-7dc6-4d17-8558-1a9a038b84e9)
-第二节
+# 第二节
 创建环境：
 
 <img width="1025" alt="de594944f766ba3dc300f091309ec17" src="https://github.com/user-attachments/assets/6edcaaa3-4e92-48c8-922c-c4231cbfed40">
@@ -15,7 +15,7 @@
 
 ![73fb603577aa966a0cf70c2bc8b69121](https://github.com/user-attachments/assets/90c6a042-0c0e-4f42-b7cb-9d7f3dbce4d1)
 
-第三节：
+# 第三节：
 
 窗口运行：
 
@@ -38,5 +38,23 @@ langgpt提示词：
 在浮点数的比较当中，先比较整数部分的大小，再依次从高位到低位比较每一位的大小，若同一位数字中有一个数较大，则该数较大
 
 ![12a08119adbe98b2c2fa5ac4ae71021e](https://github.com/user-attachments/assets/30891409-a19a-439c-b409-1f78a0f6426d)
+
+# 第四节
+
+案例实现：
+
+![a69a4dbf568ef89ad1409d7b317c4789](https://github.com/user-attachments/assets/a9bbe5a3-90a7-4b29-8f05-e4d7eab4ebca)
+
+无RAG，询问MindSearch：
+
+
+
+添加MindSearch的RAG 知识库：
+
+![image](https://github.com/user-attachments/assets/2e229504-acc3-4dfa-ac70-531a60a8791d)
+
+回答：
+
+![a69a4dbf568ef89ad1409d7b317c4789](https://github.com/user-attachments/assets/bc6431ff-ac68-4d1b-aaf6-8051544d924a)
 
 
