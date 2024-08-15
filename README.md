@@ -47,7 +47,7 @@ langgpt提示词：
 
 无RAG，询问MindSearch：
 
-
+![image](https://github.com/user-attachments/assets/50c09f00-fdac-411c-b4de-bb4ac5f8f21d)
 
 添加MindSearch的RAG 知识库：
 
