@@ -57,4 +57,12 @@ langgpt提示词：
 
 ![a69a4dbf568ef89ad1409d7b317c4789](https://github.com/user-attachments/assets/bc6431ff-ac68-4d1b-aaf6-8051544d924a)
 
+# 第五节
 
+微调训练：
+
+![697222bf23583a219462592d820f4ebd](https://github.com/user-attachments/assets/b020fe20-dba2-472e-bc8c-ebd15bf40fa7)
+
+模型合并后，本地运行：
+
+![cb22099334536c5d48f12a488c52d78e](https://github.com/user-attachments/assets/ae8e9dd4-305b-451b-87fe-da3666b2c6dc)
