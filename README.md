@@ -66,3 +66,10 @@ langgpt提示词：
 模型合并后，本地运行：
 
 ![cb22099334536c5d48f12a488c52d78e](https://github.com/user-attachments/assets/ae8e9dd4-305b-451b-87fe-da3666b2c6dc)
+
+# 第六节
+
+测评结果：
+
+![0cfd972163963cc842f7412634a3ebcb](https://github.com/user-attachments/assets/9e4b9144-1176-4054-abd1-02d804aa1c3f)
+
